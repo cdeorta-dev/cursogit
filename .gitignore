@@ -1,3 +1,5 @@
-machete.txt
+*.txt
 *.pdf
+*.doc
+
 /node_modules
