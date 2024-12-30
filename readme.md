@@ -98,6 +98,8 @@ y adentro de gitignore pongo todo lo que quiero ignorar
  
  y la inversa es .gitkeep
 
- creamos una nueva rama navida con git branch navidad
+ creamos una nueva rama navida con 
+ git branch navidad
  git checkout me cambia de rama donde estoy parado 
+
 
