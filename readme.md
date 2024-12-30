@@ -94,3 +94,10 @@ creamos el servidor de prueba
 
 luego si anda todo bien no queresmos subri a github entonces creamos en la raiz del proyecto el archivo .gitignore
 
+y adentro de gitignore pongo todo lo que quiero ignorar
+ 
+ y la inversa es .gitkeep
+
+ creamos una nueva rama navida con git branch navidad
+ git checkout me cambia de rama donde estoy parado 
+
