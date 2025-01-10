@@ -96,7 +96,7 @@ luego si anda todo bien no queresmos subri a github entonces creamos en la raiz 
 
 y adentro de gitignore pongo todo lo que quiero ignorar
  
- y la inversa es .gitkeep
+ y la inversa es .gitkeep me mantiene las carpetas dentro del proyecto
 
  creamos una nueva rama navida con 
  git branch navidad
