@@ -103,3 +103,12 @@ y adentro de gitignore pongo todo lo que quiero ignorar
  git checkout me cambia de rama donde estoy parado 
 
 
+
+seguimientos de ramas
+
+https://git-scm.com/book/es/v2/Ramificaciones-en-Git-Ramas-Remotas.html
+git log --oneline --decorate --all --graph para ver las raices de las ramas
+me siento perfecto, me siento perfecto, me siento perfecto, me siento perfectoo
+me siento bien, estoyyyy gogogo
+que sera que este golistmatch for check i need slepp
+i am strong i have strong i am good phader
