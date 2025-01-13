@@ -112,3 +112,25 @@ me siento perfecto, me siento perfecto, me siento perfecto, me siento perfectoo
 me siento bien, estoyyyy gogogo
 que sera que este golistmatch for check i need slepp
 i am strong i have strong i am good phader
+
+vamos a trabajar con hand
+motor de plantillass
+vamos a hacer un ssr
+ssr= esta todo integrado en una sola aplicacion las ssr el front y backend
+
+api rest esta esta separado el front y backend
+
+vamos a instalar hbs para el motor de plantillas
+y vamos a isntalar mongoose para la base de datos
+
+agregamos hbs motor de plantillas y 
+bongoos
+ahora bootprap
+
+vamos a mantener viva la aplicacion con node --watch server.js
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch server.js",
+    "dev": "node --watch server.js "  
+
+y luego efecutamos npm run dev 
