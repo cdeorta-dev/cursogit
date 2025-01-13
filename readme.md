@@ -1,2 +1,2 @@
 Curso GIT
-Desarrollando una aplicacion web node
+Desarrollando con git y node
