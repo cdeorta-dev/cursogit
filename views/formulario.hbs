@@ -2,14 +2,23 @@
 
     Formulario de login
 </h1>
-<div class="container mt-5">
+<form action="/formulario" class="container" method="post">
 
 <div class="mb-3">
   <label for="exampleFormControlInput1" class="form-label">Email address</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+  <input type="email" class="form-control" name="email" id="email" placeholder="name@example.com">
 </div>
 <div class="mb-3">
   <label for="password" class="form-label">Password</label>
-  <input type="password" class="form-control" id="password" >
+  <input type="password" class="form-control" name="password" id="password" >
+  
+
 </div>
+<div class="mb-3">
+
+   <button type="submit" class="btn btn-primary">enviar</button>
+   <button type="reset" class="btn btn-danger">borrar</button>
+</div>
+
+</form>
 </div>
