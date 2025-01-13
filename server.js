@@ -29,7 +29,10 @@ app.post("/formulario", function(req, res){
 
   const password = req.body.password;
   console.log(`datos recibidos: ${email} contraseña: ${password}`);
-  res.send("dato recibido")
+  res.render("datos",{
+    email,
+    password
+  })
 })
 //escuchando al puerto
 app.listen(port, () => {
